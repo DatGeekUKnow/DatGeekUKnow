@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🤔 Interested in AI and Machine Learning
+🔭 Currently working on finding a job
 <!--
 **DatGeekUKnow/DatGeekUKnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
